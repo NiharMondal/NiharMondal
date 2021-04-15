@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Nihar Mondal
 ## I love coding 
 
-🌱 I’m currently learning ... TypeScript, Next.js and Vue.
-👯 I’m looking to collaborate on ... Next.js.
-💬 Ask me about ... anything!
-⚡ Fun fact: ... I love to watch thriller movie 😄.
+🌱 I’m currently learning ... TypeScript, Next.js and Vue. <br>
+👯 I’m looking to collaborate on ... Next.js.<br>
+💬 Ask me about ... anything!<br>
+⚡ Fun fact: ... I love to watch thriller movie 😄.<br>
 
 #### 📫 &nbsp; Reach me:
 [![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://facebook.com/nihar.mondol.58/)
