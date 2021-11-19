@@ -1,8 +1,7 @@
 ### Hi there 👋 I am Nihar Mondal
 ## 😍😍 I love coding 😍😍
 
-🌱 I’m currently learning ... TypeScript, Next.js and Vue. <br>
-👯 I’m looking to collaborate on ... Next.js.<br>
+🌱 I’m currently learning ... TypeScript and Next.js. <br>
 💬 Ask me about ... anything!<br>
 ⚡ Fun fact: ... I love to watch thriller movie 😍😍<br>
 
