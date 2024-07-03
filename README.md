@@ -1,6 +1,10 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 </h1>
+  
+<h1 align="center">
+  👇
+</h1>
 <h1>
   <img src="https://i.ibb.co/jLPbHG2/mern.jpg"/>
 </h1>
@@ -22,7 +26,7 @@ I am a passionate web developer specializing in the MERN stack. I enjoy building
 
 
 
-<h2 align="center">My Tech Stack</h2>
+<h2 align="center">My Tech Stack 🔥</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,nextjs,redux," />
