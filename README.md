@@ -41,7 +41,7 @@ I am a passionate web developer specializing in the MERN stack. I enjoy building
 
 ## My Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NiharMondal&show_icons=true&theme=radical)
+![Your GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharMondal&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiharMondal&layout=compact&theme=radical)
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NiharMondal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&border_radius=0" height="160em" alt="stats graph"  /> 
