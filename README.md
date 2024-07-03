@@ -18,9 +18,7 @@
 
 ### Things I Code With
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,materialui,bootstrap)](https://skillicons.dev)
-</p>
-<p align="center">
-  
-[(https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,firebase,)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,ts,nextjs" />
+  </a>
 </p>
