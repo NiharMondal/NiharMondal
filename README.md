@@ -16,5 +16,11 @@
 
 <p align="left">Nowadays, I am assuming a Junior Frontend Developer with a strong passion for creating engaging user interfaces. I want to contribute my skills and enthusiasm in a dynamic team environment. I am committed to continuous learning and staying abreast of industry trends to deliver exceptional front-end solutions.</p>
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,materialui,bootstrap,nodejs,express,mongodb,prisma,firebase,)](https://skillicons.dev)
+### Things I Code With
+<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,materialui,bootstrap)](https://skillicons.dev)
+</p>
+<p align="center">
+  
+[(https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,firebase,)](https://skillicons.dev)
+</p>
