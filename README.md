@@ -26,7 +26,7 @@ I am a passionate web developer specializing in the MERN stack. I enjoy building
 
 
 
-<h2 align="center">My Tech Stack 🔥</h2>
+<h2 align="center">My Tech Stack </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,nextjs,redux," />
@@ -45,7 +45,7 @@ I am a passionate web developer specializing in the MERN stack. I enjoy building
   </a>
 </p>
 
-## My Stats
+## My Stats 🔥
 ![Your GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharMondal&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiharMondal&layout=compact&theme=radical)
 ![Streak Stats](https://streak-stats.demolab.com?user=NiharMondal&locale=en&mode=daily&theme=radical)
