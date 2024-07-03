@@ -1,7 +1,6 @@
 
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
-  <p>Welcome to my page! </br> I'm Nihar Mondal, Fullstack developer from <b>Bangladesh</b></p>
 </h1>
 
 ## About Me
