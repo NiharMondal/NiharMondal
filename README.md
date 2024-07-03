@@ -2,9 +2,9 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 </h1>
   
-<h1 align="center">
+<p align="center" size="30px">
   👇
-</h1>
+</p>
 <h1>
   <img src="https://i.ibb.co/jLPbHG2/mern.jpg"/>
 </h1>
@@ -20,9 +20,9 @@ I am a passionate web developer specializing in the MERN stack. I enjoy building
 - ⚡ Fun fact ... I love to watch tech videos and thriller movies
 
 #### 📫 &nbsp; How to reach me:
-[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail&logoSize=30)](mailto:developernihar@gmail.com)
-[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin&logoSize=30)](https://www.linkedin.com/in/developer-nihar/)
-[![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook&logoSize=30)](https://www.facebook.com/niharmondal.01/)
+[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:developernihar@gmail.com)
+[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/developer-nihar/)
+[![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://www.facebook.com/niharmondal.01/)
 
 
 
