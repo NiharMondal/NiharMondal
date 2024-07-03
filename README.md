@@ -20,22 +20,22 @@ I am a passionate web developer specializing in the MERN stack. I enjoy building
 
 
 
-## My Tech Stack
+<h2 align="center">My Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux," />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,nextjs,redux," />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,prisma,mongodb,postgres,graphql" />
+    <img src="https://skillicons.dev/icons?i=materialui,firebase,nodejs,express,prisma,mongodb,postgres,graphql,git,github" />
   </a>
 </p>
 
 <h3 align="center">I am familiar with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,graphql" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp" />
   </a>
 </p>
 
