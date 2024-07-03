@@ -1,14 +1,18 @@
-![PythonPoweredGIF](https://github.com/NiharMondal/NiharMondal/assets/66631866/1192e87c-fb29-4285-ac82-c5e861677bfe)### Hi there 👋 I am Nihar Mondal
-## 😍😍 I love coding 😍😍
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-🌱 I’m currently learning ... Python [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) <br>
-💬 Ask me about ... anything!<br>
-⚡ Fun fact: ... I love to watch thriller movie 😍😍<br>
+
+<p>Welcome to my page! </br> I'm Nihar Mondal, Fullstack developer from <b>Bangladesh</b></p>
+<h3>Things I code with</h3>
+
+🌱 I’m currently learning ... <b>Python</b> <br>
+👯 I’m looking - to collaborate on **Open Source Projects**
+🤗 I’m helping - people learn **Web Development**
+⚡ Fun fact: ... I love to watch technology-related videos on YouTube <br>
 
 #### 📫 &nbsp; Reach me:
-[![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://www.facebook.com/niharmondal.01/)
-[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:developernihar@gmail.com)
-[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/developer-nihar/)
+[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail&logoSize=30)](mailto:developernihar@gmail.com)
+[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin&logoSize=30)](https://www.linkedin.com/in/developer-nihar/)
+[![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook&logoSize=30)](https://www.facebook.com/niharmondal.01/)
 
 <p align="center"> MERN Developer|| NextJS || React Native Developer</p>
 
