@@ -48,5 +48,5 @@ I am a passionate web developer specializing in the MERN stack. I enjoy building
 ## My Stats 🔥
 ![Your GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharMondal&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiharMondal&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=NiharMondal&theme=dark)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=NiharMondal)]
 
