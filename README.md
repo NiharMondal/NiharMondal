@@ -13,7 +13,7 @@
 
 I am a passionate web developer specializing in the MERN stack. I enjoy building web applications that are scalable, maintainable, and user-friendly. 
 
-- 🔭 I’m currently working on ... E-commerce web application
+- 🔭 I’m currently working on ... Learning Management System
 - 🌱 I’m currently learning ... Python and also exploring C, C++
 - 👯 I’m looking to ... collaborate on open-source projects
 - 💬 Ask me about ... GSAP
